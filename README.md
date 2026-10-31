@@ -1,16 +1,17 @@
 # /build-with-me
 
-A Claude Skill that helps teens build their own app without letting Claude
+A Claude Skill that helps students build their own app without letting Claude
 write it for them.
 
 Claude helps design the plan and writes the tests. The student writes every
 line of app code. The app is split into levels, and each level's tests have to
-pass before the next one unlocks, like LeetCode for your own project. When the
-last level passes, the app is finished and the student wrote all of it.
+pass before the next one unlocks, like LeetCode, but it works towards building 
+your own project. When the last level passes, the app is finished and the student 
+wrote all of it.
 
 ## Why
 
-When a teen vibe codes, AI writes the app and the teen copies it. That gets
+When a student or beginner vibe codes, AI writes the app and the teen copies it. That gets
 something shipped, but the student can't debug it or explain it afterward.
 This skill keeps the AI for the parts that help learning (planning, tests,
 hints) and leaves the coding to the student.
